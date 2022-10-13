@@ -257,4 +257,63 @@ body {
   background-size: cover;
   /* padding: 283px 0 254px; */
   height: 90vh;
+  margin-top: 150px;
+}
+.make-orders h2 {
+  color: #fff;
+  font-weight: 800;
+  font-size: 80px;
+  line-height: 88px;
+  text-transform: capitalize;
+  margin-bottom: 68px;
+  font-family: "Solway", serif;
+}
+.make-orders span.app {
+  display: inline-block;
+  color: #d8ab37;
+  font-family: "Solway", serif;
+}
+.make-order-text {
+  position: relative;
+  top: 80px;
+  margin-left: 120px;
+}
+.text-images p {
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 29px;
+  text-transform: capitalize;
+}
+.text-images p:hover {
+  /* background-color: white; */
+  color: #d8ab37;
+  border-color: #d8ab37;
+}
+.footer {
+  background-image: url("../images/bg2-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* padding: 283px 0 254px; */
+  height: 60vh;
+  margin-top: 120px;
+}
+.img-coll span {
+  display: inline-block;
+  height: 150px;
+  width: 150px;
+  background: rgb(232, 77, 64);
+  background: linear-gradient(
+    90deg,
+    rgba(232, 77, 64, 0.6141807064622724) 0%,
+    rgba(205, 214, 104, 0.300455216266194) 28%,
+    rgba(0, 212, 255, 1) 77%
+  );
+  border-radius: 50%;
+  position: relative;
+  top: -70px;
+}
+.img-coll i {
+  position: relative;
+  top: 40px;
+  font-size: 60px;
 }
